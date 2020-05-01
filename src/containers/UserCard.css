@@ -1,0 +1,19 @@
+.UserCard__li {
+  text-align: left;
+  border-bottom-style: inset;
+}
+
+.UserCard__h4 {
+  margin: 0;
+  margin-top: 10px;
+}
+
+.UserCard__li__active {
+  background-color: lavender;
+  padding: 1px;
+}
+
+.UserCard__li__inActive {
+  background-color: white;
+  padding: 0px;
+}

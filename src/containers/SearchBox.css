@@ -1,0 +1,9 @@
+.SearchBox__Input {
+    width: 300px;
+    box-sizing: content-box;
+    padding: 10px;
+}
+
+.SearchBox__div {
+  box-shadow: -2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
